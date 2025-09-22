@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./assets/banner.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com/demo/?font=Roboto&weight=500&size=22&color=7EBFF7&lines=welcome+to+my+GUTHIB;I'm+just+chillin'+here" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&pause=1000&color=7EBFF7&width=435&lines=welcome+to+my+GUTHIB;I'm+just+chillin'+here" width="70%" />
 <br><br>
 <pre>
     💻 Fullstack 

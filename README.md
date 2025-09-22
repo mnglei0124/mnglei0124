@@ -11,9 +11,9 @@
 
 </pre>
 <br><br>
-<img src="./assets/homer.gif" height="60" />
-<img src="./assets/homer.gif" height="60" />
-<img src="./assets/homer.gif" height="60" />
+<img src="./assets/cowboy.gif" height="60" />
+<img src="./assets/cowboy.gif" height="60" />
+<img src="./assets/cowboy.gif" height="60" />
 <br><br><br>
 
 ### 🛠️ Techstack

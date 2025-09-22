@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/blurredfaceimage1.png" alt="Anime Avatar" width="240" />
+</p>
 
-## Getting Started
+<h1 align="center">Hi, I'm mnglei0124 👋</h1>
 
-First, run the development server:
+<p align="center">
+  <samp>
+    🍿 Developer | Algorithm Enthusiast | Movie & Anime Lover 📚
+  </samp>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🚀 About Me
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Hey there! I’m a developer who loves solving algorithmic puzzles (especially with **C++**), building cool web stuff with **Next.js**, **Node.js**, and **NestJS**, and chilling out with movies, anime, and books.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 💻 Passionate about clean code and clever solutions
+- 🧩 Big fan of competitive programming and challenging problems
+- 🎬 Always down for a good film or a classic anime series
+- 📖 Bookworm at heart
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+### 🛠️ My Favorite Tech
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+### 🌟 Featured Projects
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Here are a few projects I’m proud of (and always improving):
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [khadaan-logger](https://github.com/mnglei0124/khadaan-logger): Logging utilities made simple and stylish 📝
+- [online-course](https://github.com/mnglei0124/online-course): Building a platform for learning and sharing knowledge 📚
+- [fer-project](https://github.com/mnglei0124/fer-project): Experimenting with fun ideas and cool tech 💡
+- [nuudel-admin](https://github.com/mnglei0124/nuudel-admin): Admin dashboard with modern web technologies 🎛️
+- [sury-website](https://github.com/tselmegkh/sury-website): Collaborating on awesome websites 🌐
+
+---
+
+### 🎉 Fun Facts
+
+- My coding playlist features anime soundtracks and 90s movie themes 🎵
+- I believe every problem has an elegant solution—sometimes it's just hidden!
+- “Code, eat, watch, read, repeat.” is my motto.
+
+---
+
+<p align="center">
+  <samp>
+    <b>Let's build something amazing!</b> <br>
+    <i>Feel free to explore my repos and reach out for collaborations!</i>
+  </samp>
+</p>
